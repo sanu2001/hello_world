@@ -1,2 +1,6 @@
 # hello_world
-Github is a code hosting platform for version control and collaboration.
+
+Hi humans!
+
+Hubot here, i like nodes.js(that's what I'm made of!)
+i've had tecos on the moon and find then for superior to earth tecos.
